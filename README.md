@@ -1,5 +1,7 @@
 # Retail Sales Analysis SQL Project
 
+![Retail Sales](retailsales.avif)
+
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
